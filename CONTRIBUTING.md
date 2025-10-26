@@ -1,0 +1,12 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing!
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Commit your changes.
+4. Push your branch and open a Pull Request.
+
+## Code of Conduct
+Please follow the CODE_OF_CONDUCT.md when interacting with this project.
